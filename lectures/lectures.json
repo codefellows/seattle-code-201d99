@@ -1,0 +1,190 @@
+{
+  "lectures": {
+    "module-01": {
+      "class-01": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/RFGRf5nDAklGINtVNSxh4Gg9T5XANGeVfhdIzV49hV9qO73qpjHUtCjc5FY8dJfO.QB9Xu5K9LKha58T4",
+          "date": "20230109",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/OJm91-JC_ujgVTYUVa3uXsPFZbdmSEGeFW-aLKDWSxs521anpYyyzFugJe0Lk2ID.fg5F7SG9K6uHi2ZR",
+          "date": "20221128",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-02": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/RDchC83bX5Uxafs3MVp1vUeRdPoRgdvcz61VRJD4SiIHhZs2AoTgh8TWpUWEcPpK.mqBEkdvrZaTvZKkF",
+          "date": "20230110",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/Dw_k7IfqQHtyOhcSTzxc6ZQOK5KXFhvnHhfH2e2aW-PWXnWd52ev2I0HWkWN6MN6.gpXOoqqt7K2_rJCs",
+          "date": "20221129",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-03": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/aP9cMqcHfbPxbR3-ZuZK5Rv20l_rJO4xcLl5mJreaC3VJ-fkPZ5QPi-_moeWSsHp.8qOzx5n22y07ORZo",
+          "date": "20230111",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/gJj0336N4a3rNP8H_zHCQ_VUuhRR0BNOjsFA45VJcNLBZcGA1b2BIK8ZyBQ4h4LR.Sao5-hMJvLVTlNDx",
+          "date": "20221130",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-04": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/te8RvYIkM4i1U4r5QBhNkYy-vku6zZXNqfUba3mxhM2BtectuGeGiJoHBCSOXz9K.mM7bI6nvuF2w_eil",
+          "date": "20230112",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/0VMXi6AaX12zXVDDmoerg43ph2iVabtZ65HzphKW5SMECzEsLwtkaYixx5c7D5yI.KeXopYRrhBeVJ8HO",
+          "date": "20221201",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-05": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/0f_04nzZqOfaroJzUMGQLosD1CDpvQ_71Z94ZUx-kF_qRpUvh1r0n2JZ5j8NfQRe.YzK20xrDybgl278w",
+          "date": "20230113",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/8ZAmBjpffxxcbxhIb6T7WpImJmMKLl1qTTnM2ANej_B-7siQQcvA6xNGONIx3pBJ.QhlR2TU4GepRi86a",
+          "date": "20221202",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-02": {
+      "class-06": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/m-oFg8kUsaDcqTOnHcki5_8oj80NAJ_R-C7howeM9Oz1IumslKS4ys6bMOlbdJxm.hbZOwwczd8jzJX1E",
+          "timestamp": "20230116",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/TF0kX9Q7Q48qlE3Jb4nfRN25aCzYT4YftKyWXWKjLCuaNFDcHPxJcLHWKAbAS_L9.cXa5D1Ye31ZP_jGG",
+          "timestamp": "20221205",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-07": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/bl8AtV5sgFhAhpSJ3W2JR-6Bxin8b7bwJUZ5Bb1o9b-LM6v8QSaG4MtrAwgVLD5A.taGZQKtPjl-wp7s9",
+          "timestamp": "20230117",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/kqeEpuh6uQDPfbEOhj-TFU7zwkxu9xuSIkkpl_blKIBd__M1JzSrLxFAP70ZadRg.7z_-wtUNr5BgFAJ6",
+          "timestamp": "20221206",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-08": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/dkQsmbTYb2xbqsNF0R0QayHzDqHT3nfp1X-p2IsBjqny5AoYBErnSzpjdVoSONsy.0s2gavg2aKtPTNlJ",
+          "timestamp": "20230118",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/bqroTGPRwDpFvIvSo4qmNDZGPx1ALS_vHu5idR0kSg0jWQYdq1V83n9D3Qp5j0ao.z22kFh6P3h9P5x0o",
+          "timestamp": "20221207",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-09": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/PQEgoTeUVQGXP3ytxKr5fds1YVYQRfTc2zEASeyvlQjvrqifh628fd3fQBbXYWBE.c-S12pjWRM8iwhaR",
+          "timestamp": "20230119",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/khAK-gwqox-aUmKk2YG80XWDsiNIX38fBr6ldh6OGZc8ASUZQz74aa8ieag4WwVb.8Vponqf2GKOMk2h6",
+          "timestamp": "20221208",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-10": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/QlYIGR9JKyrAYYQJu9c3bxbRN8MNWGp2B-vWbpFPUtiOoF5aDOwq0Vk8oRpiXcJo.VMueO4lwA9pFv4oB",
+          "timestamp": "20230120",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/AGPBbYPZhyaQLEgdcJ6kWodsSC9VDGukAVS9AiQrDWrUmerhp3tU26gwiohDZsWB.cTDmpySPnxmC6K8t",
+          "timestamp": "20221209",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    },
+    "module-03": {
+      "class-11": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/0UxHGG2p-SxgH0fallYC7bBxYt4sMiXuXQNA9Tjn3F-162xWuIfs2y9oHUrOoo9z.P6_d56qARv3qlqSM",
+          "timestamp": "20230123",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/ZWB_P2s2Uadn6vyGXDwo7DCCo7WpM5FyraGv-8Sc577Qazd8SmbdEDNXH9hCTCp1.WYlbuoEysKsFGojh",
+          "timestamp": "20221212",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-12": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/_85KeaRhRynQXH03Z7WZePoh9Wqe7yfRqs3pXtodHbPEjSgyy_JMHY6zFF4R-pVc.Nly_s-8DurhnL8ph",
+          "timestamp": "20230124",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/qFSMexfB7nNCWKzQPv_potyB0uwevrZutvQUzSfIb0crcbqtgwIpEAXu4DjwdK3i.dFMwm09JfCZexURG",
+          "timestamp": "20221213",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-13": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/IXN4zYrtZbb4Qnzys2QBnhiOuwi7ym2VkjcGbNo2jY0lm05YKh0JJ50ohlKbS1On.edI2jw6nA1RVjGmO",
+          "timestamp": "20230125",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/uLVuZy3OoEz6ER6gGHX2eWzG_3csmkOvRvmYrzKxH4tC0sbaBzn1av0wRb4dKL7A.NrpA9GahlFIVxPEG",
+          "timestamp": "20221214",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-14": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/i-TUiKJ7RgfKiJNx0ujNyvzssptyXM2a3vL4lkKUAZinEJmjX1Xx2V7fcubiuoZY.Q1UjUAU9qGWaM53G",
+          "timestamp": "20230126",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/PEW7mK1Jm7WXK3t0I18xjYP_ICQIuOSkd_TgdCsSvoVifFN3DlGAN_MRanDI5qJr._vBA4owuKx6gMMpf",
+          "timestamp": "20221215",
+          "instructor": "Audrey Patterson"
+        }
+      },
+      "class-15": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/cxrOKkfRhh9F3pjVJXrx1uAcKvBBG2iUXIrbJPzaVw0WJMjzJYT6XbZfi5n-LoJt.lhIXKgT2FS5lrTFP",
+          "timestamp": "20230127",
+          "instructor": "Jacob Knaack"
+        },
+        "backup": {
+          "link": "https://zoom.us/rec/share/9GmXoVMsgcejRlN8Xc39Rnr8fXu9yWpp5Jtk8m-2Q2I-Yc3s81zruToDIFvy8YI.BSsw6TVpG9lb-GlN",
+          "timestamp": "20221216",
+          "instructor": "Audrey Patterson"
+        }
+      }
+    }
+  }
+}
