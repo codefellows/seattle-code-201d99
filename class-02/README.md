@@ -78,3 +78,8 @@ In our code demo we'll do the following:
 ### CSS Cheat Sheet
 
 - [css everything cheatsheet](https://overapi.com/css){:target="_blank"}
+
+### Resources
+
+- [Project Setup Guide](https://codefellows.github.io/code-201-guide/curriculum/class-02/project-setup)
+- [Replit: Data Types](https://replit.com/@sheyna/SturdyAliceblueMicrostation#index.js)
