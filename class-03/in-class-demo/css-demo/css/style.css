@@ -1,0 +1,61 @@
+* {
+ /* calcuate the border and the padding as part of the width of all elements */
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  color: crimson;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 3rem;
+  /* text-align: center; */
+  width: 200px;
+  margin: auto;
+  background-color: darksalmon;
+}
+
+section {
+  margin-bottom: 6rem;
+}
+
+
+.picture {
+  width: 400px;
+  padding: 30px;
+  border: 10px solid red;
+  background-color: darkseagreen;
+}
+
+div{
+  border: 1px solid black;
+  padding: 25px;
+  margin: 25px;
+  /* display: inline-block; */
+  float: left;
+}
+
+span {
+  color: red;
+  font-size: 2rem;
+}
+
+p {
+  /* clear is how we escaped a float */
+  clear: both;
+}
+
+.parent {
+  background-color: pink;
+  border: 1px solid red;
+  width: 600px;
+  /* overflow is how we escaped a float */
+  overflow: auto;
+  margin: auto;
+}
