@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  font-size: 2rem;
+  margin: 1rem
+}
+h2 {
+  font-weight: bold;
+}
+section  {
+  border: medium solid red;
+  margin: 1rem;
+  padding: 1rem;
+  position: static;
+  height: 1200px;
+}
+div {
+  border: medium solid black;
+  margin: 1rem;
+  padding: 1rem;
+  position: static;
+  /* left: 300px; */
+  width: 20%;
+  /* top: 300px */
+}
+
+/* #one {
+  top: 300px;
+}
+ */
+#three {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
