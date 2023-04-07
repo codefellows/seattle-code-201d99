@@ -1,0 +1,39 @@
+
+div, span {
+  border: 3px solid gray;
+}
+h1 {
+  font-size: 2rem;
+}
+
+div > .car {
+  background-color: pink;
+}
+
+div .car {
+  background-color: green;
+}
+
+/* Pseudo selector, pseudo states */
+
+li:nth-of-type(2) {
+  font-size: 2rem;
+}
+
+li:hover {
+  background-color:cornflowerblue;
+}
+
+/* Pseudo elements */
+
+ul::after {
+  content: 'ul::after'
+}
+
+ul::before {
+  content: 'ul::before';
+}
+
+/* .car {
+  border: 2px solid red;
+} */
