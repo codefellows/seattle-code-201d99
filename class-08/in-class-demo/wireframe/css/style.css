@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+
+header {
+  background-color: darkgray;
+}
+
+main {
+  background-color: slategray;
+}
+
+main > section {
+  background-color: gray;
+  width: 960px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 30px;
+}
+
+main img {
+  margin-bottom: 30px;
+}
+
+footer {
+  background-color: beige;
+  height: 100px;
+}
+
+article {
+  width: 450px;
+}
+
+article section {
+  height: 320px;
+  overflow: auto;
+}

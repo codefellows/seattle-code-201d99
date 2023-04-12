@@ -41,3 +41,5 @@ In this class you will learn to layout a page using CSS and HTML with a given a 
 
 - [Flexbox Cheatsheat](https://jonitrythall.com/content/flexboxsheet.pdf)
 - [Guide to Fonts](https://www.picmonkey.com/blog/font-pairing-like-a-pro)
+- [Google Fonts](https://fonts.google.com/)
+- [Learn Flexbox with Flexbox Froggy](https://flexboxfroggy.com/)
