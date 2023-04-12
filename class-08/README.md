@@ -40,6 +40,7 @@ In this class you will learn to layout a page using CSS and HTML with a given a 
 ## Resources
 
 - [Flexbox Cheatsheat](https://jonitrythall.com/content/flexboxsheet.pdf)
-- [Guide to Fonts](https://www.picmonkey.com/blog/font-pairing-like-a-pro)
+- [Guide to Fonts](https://www.picmonkey.com/blog/font-pairing-like-a-pro)]
+- [Replit: Nested Arrays and For Loops](https://replit.com/@sheyna/GreedyDarkredTheory#index.js)
 - [Google Fonts](https://fonts.google.com/)
 - [Learn Flexbox with Flexbox Froggy](https://flexboxfroggy.com/)
