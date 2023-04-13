@@ -23,6 +23,14 @@ h1 {
 main {
   width: 80%;
   margin: 3rem auto;
+  display: flex;
+}
+
+main > section {
+  flex-basis: 60%;
+}
+main > aside {
+  flex-basis: 36%;
 }
 
 article {
@@ -80,4 +88,32 @@ th {
 }
 tfoot {
   background-color: rgba(112, 159, 165, .1);
+}
+
+/* -- Form styles -- */
+form {
+  width: 100%;
+  margin-top: 2rem;
+}
+fieldset {
+  border: 1px solid rgb(112, 159, 165);
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+legend {
+  color: rgb(112, 159, 165);
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+textarea,
+label,
+input {
+  display: block;
+}
+
+textarea,
+input {
+  margin-bottom: 1rem;
 }

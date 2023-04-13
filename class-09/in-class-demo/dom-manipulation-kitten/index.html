@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Adopt a Kitten</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Adopt a Kitten</h1>
+    </header>
+    <main>
+      <section>
+      <h2>Kittens Available for Adoption:</h2>
+      <div id="kittenProfiles">
+
+      </div>
+      <!--
+        see: https://www.w3schools.com/tags/tag_tbody.asp
+       -->
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>1st fav</th>
+            <th>2nd fav</th>
+            <th>3rd fav</th>
+          </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+        <tfoot>
+          <tr>
+            <td>td</td>
+            <td>td</td>
+            <td>td</td>
+            <td>td</td>
+          </tr>
+        </tfoot>
+      </table>
+    </section>
+    <aside>
+      <form>
+        <!-- All kittens need
+            Kitten(name, about, likes, src, alt)  -->
+        <fieldset>
+          <legend>Kitten Info</legend>
+        <!-- name attribute is how we will get the values in our JavaScript -->
+        <!-- label and input must have matching for and id attributes -->
+        <label for="nameOfKitten">kitten's name</label>
+        <input type="text" name="kittenName" id="nameOfKitten" placeholder="kitten's name" required>
+
+        <!-- Second way of adding a label -->
+        <!-- this way does not need for and id attributes-->
+        <label>Number of months old
+          <input type="number" name="ageInMonths" step=".1">
+        </label>
+
+        <label>About kitten
+          <input type="text" name="about">
+        </label>
+
+        <label>Photo URL
+          <input type="url" name="imageURL">
+        </label>
+
+        <label>Photo description
+          <input type="text" name="imageAlt">
+        </label>
+      </fieldset>
+      <fieldset>
+        <legend>Kitten's favorite things</legend>
+        <label>1st Favorite:
+          <input type="text" name="fav1">
+        </label>
+        <label>2nd favorite:
+          <input type="text" name="fav2">
+        </label>
+        <label>3rd favorite:
+          <input type="text" name="fav3">
+        </label>
+      </fieldset>
+      <button type="submit">Add a Kitten</button>
+      </form>
+    </aside>
+    </main>
+    <footer>
+    </footer>
+    <script src="js/app.js"></script>
+  </body>
+</html>
