@@ -68,3 +68,8 @@ Learning how to **debug** your code will help you to better identify the errors 
 1. Check "Enable Show Develop menu in menu bar".
 
 1. From the Develop menu, select "Show Web Inspector".
+
+## RESOURCES
+
+- [Font Awesome](https://fontawesome.com/)
+- [Replit: Let vs Const](https://replit.com/@sheyna/FluidAdmirableLinuxkernel)
